@@ -1,0 +1,17 @@
+{
+    "name": "admin/newproject-exemple",
+    "description": "Novo projeto para a atividade do dia 05 de outubro.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Henrique"
+        }
+    ],
+    "require": {}
+}
